@@ -1,0 +1,53 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Helvetica Neue", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: rgb(60, 60, 60);
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace;
+}
+
+/* my custom styles */
+.calculator{
+  width: 320px;
+  position: relative;
+  background-color: rgb(184, 170, 150);
+}
+.formulaScreen{
+  color: rgb(233, 231, 221);
+  text-align: right;
+  height: 45px;
+  font-size: 16px;
+  padding-right: 15px;
+  padding-left: 15px;
+  padding-bottom: 8px;
+  padding-top: 15px;
+}
+.outputScreen{
+  color: #fff;
+  text-align: right;
+  height: 45px;
+  font-size: 28px;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+button{
+  width: 80px;
+  height: 65px;
+  position: relative;
+  color: #000;
+  background-color: rgb(248, 241, 225);
+  border: 1px solid rgba(219, 211, 191, 0.514);
+  cursor: pointer;
+}
+.large-btn#clear, .large-btn#zero{
+  width: 160px;
+}
