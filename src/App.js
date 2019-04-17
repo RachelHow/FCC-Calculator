@@ -41,7 +41,7 @@ class App extends Component {
       let answer = Math.round(1000000000000 * eval(expression)) / 1000000000000;
       this.setState({
         currentVal: answer.toString(),
-        formula: expression.replace(/\*/g, '⋅').replace(/-/g, '‑'),
+        formula: expression.replace(/\*/g, '⋅').replace(/-/g, '‑') + '=' + answer,
         prevVal: answer,
         evaluated: true
       });
