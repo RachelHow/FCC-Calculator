@@ -1,13 +1,13 @@
 {
-  "main.css": "/fcc-c/static/css/main.6407f2c1.chunk.css",
-  "main.js": "/fcc-c/static/js/main.4e0a2bde.chunk.js",
-  "main.js.map": "/fcc-c/static/js/main.4e0a2bde.chunk.js.map",
-  "runtime~main.js": "/fcc-c/static/js/runtime~main.8154b048.js",
-  "runtime~main.js.map": "/fcc-c/static/js/runtime~main.8154b048.js.map",
-  "static/js/2.98dcc9dd.chunk.js": "/fcc-c/static/js/2.98dcc9dd.chunk.js",
-  "static/js/2.98dcc9dd.chunk.js.map": "/fcc-c/static/js/2.98dcc9dd.chunk.js.map",
-  "index.html": "/fcc-c/index.html",
-  "precache-manifest.cd938d44cfa90ace477b5f7b61097bbd.js": "/fcc-c/precache-manifest.cd938d44cfa90ace477b5f7b61097bbd.js",
-  "service-worker.js": "/fcc-c/service-worker.js",
-  "static/css/main.6407f2c1.chunk.css.map": "/fcc-c/static/css/main.6407f2c1.chunk.css.map"
+  "main.css": "/fcc-calculator/static/css/main.bbba9914.chunk.css",
+  "main.js": "/fcc-calculator/static/js/main.07d5f54f.chunk.js",
+  "main.js.map": "/fcc-calculator/static/js/main.07d5f54f.chunk.js.map",
+  "runtime~main.js": "/fcc-calculator/static/js/runtime~main.e9687150.js",
+  "runtime~main.js.map": "/fcc-calculator/static/js/runtime~main.e9687150.js.map",
+  "static/js/2.98dcc9dd.chunk.js": "/fcc-calculator/static/js/2.98dcc9dd.chunk.js",
+  "static/js/2.98dcc9dd.chunk.js.map": "/fcc-calculator/static/js/2.98dcc9dd.chunk.js.map",
+  "index.html": "/fcc-calculator/index.html",
+  "precache-manifest.1c16535baba535d4adca1e95dcef13df.js": "/fcc-calculator/precache-manifest.1c16535baba535d4adca1e95dcef13df.js",
+  "service-worker.js": "/fcc-calculator/service-worker.js",
+  "static/css/main.bbba9914.chunk.css.map": "/fcc-calculator/static/css/main.bbba9914.chunk.css.map"
 }
