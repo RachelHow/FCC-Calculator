@@ -2,7 +2,7 @@
   "name": "fcc-c",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://rachelhow.github.io/fcc-c",
+  "homepage": "https://rachelhow.github.io/fcc-calculator",
   "dependencies": {
     "build": "^0.1.4",
     "gh-pages": "^2.0.1",
